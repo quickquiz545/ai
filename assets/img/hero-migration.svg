@@ -1,0 +1,21 @@
+<svg width="520" height="320" viewBox="0 0 520 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="heroGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f65f8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#22c55e" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="496" height="296" rx="32" fill="#f8fbff" stroke="#e5e7eb"/>
+  <rect x="60" y="64" width="400" height="192" rx="24" fill="url(#heroGrad)" opacity="0.12"/>
+  <rect x="96" y="104" width="176" height="112" rx="16" fill="#fff" stroke="#d9e3ff"/>
+  <rect x="248" y="104" width="176" height="112" rx="16" fill="#fff" stroke="#d9e3ff"/>
+  <path d="M272 160h96" stroke="#1f65f8" stroke-width="12" stroke-linecap="round"/>
+  <path d="M286 140h68" stroke="#2563eb" stroke-width="6" stroke-linecap="round"/>
+  <path d="M286 180h52" stroke="#22c55e" stroke-width="6" stroke-linecap="round"/>
+  <rect x="128" y="128" width="112" height="64" rx="12" fill="#1f65f8" opacity="0.15"/>
+  <path d="M160 160h48" stroke="#1f65f8" stroke-width="8" stroke-linecap="round"/>
+  <polyline points="212,146 228,160 212,174" fill="none" stroke="#1f65f8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="144" cy="96" r="20" fill="#fff" stroke="#1f65f8" stroke-width="4"/>
+  <path d="M144 84v24" stroke="#1f65f8" stroke-width="6" stroke-linecap="round"/>
+  <polyline points="134,98 144,108 154,98" fill="none" stroke="#1f65f8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

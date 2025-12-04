@@ -1,0 +1,10 @@
+<svg width="200" height="140" viewBox="0 0 200 140" xmlns="http://www.w3.org/2000/svg">
+  <rect rx="16" ry="16" width="200" height="140" fill="#2563eb" opacity="0.12"/>
+  <g fill="#0f172a" font-family="Inter, Arial" font-weight="700" font-size="16">
+    <text x="16" y="42">SharePoint</text>
+    <text x="16" y="66">Migration</text>
+  </g>
+  <rect x="110" y="42" width="60" height="56" rx="10" fill="#2563eb" opacity="0.2"/>
+  <path d="M124 56h32" stroke="#2563eb" stroke-width="6" stroke-linecap="round"/>
+  <path d="M124 72h18" stroke="#2563eb" stroke-width="6" stroke-linecap="round"/>
+</svg>

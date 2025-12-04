@@ -1,0 +1,10 @@
+<svg width="200" height="140" viewBox="0 0 200 140" xmlns="http://www.w3.org/2000/svg">
+  <rect rx="16" ry="16" width="200" height="140" fill="#10b981" opacity="0.12"/>
+  <g fill="#0f172a" font-family="Inter, Arial" font-weight="700" font-size="16">
+    <text x="16" y="42">Tenant</text>
+    <text x="16" y="66">to</text>
+    <text x="16" y="96">Tenant</text>
+  </g>
+  <path d="M100 44v52" stroke="#10b981" stroke-width="6" stroke-linecap="round"/>
+  <path d="M74 70h52" stroke="#10b981" stroke-width="6" stroke-linecap="round"/>
+</svg>
