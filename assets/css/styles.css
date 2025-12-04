@@ -67,6 +67,7 @@ img {
   justify-content: space-between;
   gap: var(--space-4);
   padding: var(--space-4) 0;
+  position: relative;
 }
 
 .logo {
@@ -229,8 +230,8 @@ img {
 .hero-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  align-items: start;
-  gap: var(--space-6);
+  align-items: center;
+  gap: clamp(var(--space-5), 4vw, var(--space-7));
 }
 
 .hero-content .eyebrow {
@@ -265,6 +266,9 @@ img {
   border-radius: var(--radius);
   padding: var(--space-3);
   box-shadow: var(--shadow);
+  max-width: 520px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .logo-strip {
@@ -278,6 +282,7 @@ img {
   align-items: center;
   gap: var(--space-4);
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .logo-strip small {
@@ -326,6 +331,8 @@ input[type="submit"]:hover {
   border-radius: var(--radius);
   padding: var(--space-5);
   box-shadow: var(--shadow);
+  display: grid;
+  gap: var(--space-1);
 }
 
 .hero-form h3 {
@@ -559,6 +566,7 @@ input[type="submit"]:hover {
   .site-nav {
     position: absolute;
     top: 68px;
+    left: 4vw;
     right: 4vw;
     background: #fff;
     border: 1px solid var(--border);
